@@ -25,6 +25,6 @@ void display()
 };
 int main()
 {
-    student obj("Divya", 20);
+    student obj("Kanishka", 20);
     obj.display();
 }
