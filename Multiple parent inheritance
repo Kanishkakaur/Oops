@@ -30,7 +30,7 @@ class Student: public Human, public Person
 };
 int main()
 {
-    Student obj("Divya", 20, 01);
+    Student obj("Kanishka", 20, 01);
     obj.display();
     return 0;
 }
